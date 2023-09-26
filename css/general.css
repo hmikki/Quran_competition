@@ -8,6 +8,31 @@
 *, h1, h2, h3, h4, h5, h6 {
     font-family: "Uthman Naskh";
 }
+p, a, span, li{
+    font-size: 1.25rem !important;
+}
+h1, h1 span{
+    font-size: 4rem !important;
+}
+h2{
+    font-size: 3.5rem !important;
+}
+h3{
+    font-size: 3rem !important;
+}
+h4{
+    font-size: 2.5rem !important;
+}
+h5{
+    font-size: 2rem !important;
+}
+h6{
+    font-size: 1.5rem !important;
+}
+small{
+    font-size: 1rem !important;
+}
+
 .hero-header .show_more{
     display: flex;
     justify-content: center;
