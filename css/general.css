@@ -121,3 +121,21 @@ input.form-control::placeholder ,
     font-size: 1.5rem;
     text-decoration: underline;
 }
+nav.navbar.navbar-light.navbar-expand-lg.py-3{
+    background: #ffffff5c;
+}
+.gift_img{
+    width: 200px;
+}
+.show_video{
+    position: absolute;
+    background: var(--bs-primary);
+    left: 40px;
+    top: 40px;
+    border-radius: 10px;
+    color: white;
+}
+.show_video:hover,
+.show_video:active{
+    color: white;
+}
