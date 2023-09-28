@@ -139,3 +139,9 @@ nav.navbar.navbar-light.navbar-expand-lg.py-3{
 .show_video:active{
     color: white;
 }
+@media (max-width: 767px) {
+    .title{
+        font-size: 12px !important;
+        width: 100px !important;
+    }
+}
