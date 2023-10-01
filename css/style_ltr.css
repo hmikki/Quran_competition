@@ -23,3 +23,9 @@
     right: 0 !important;
     left: unset !important;
 }
+@media (max-width: 767px) {
+    .title{
+        font-size: 8px !important;
+        width: 100px !important;
+    }
+}

@@ -24,3 +24,9 @@
     right: unset;
     left: 30px;
 }
+@media (max-width: 767px) {
+    .title{
+        font-size: 12px !important;
+        width: 100px !important;
+    }
+}
